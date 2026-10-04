@@ -1,2 +1,2 @@
-# PPA-Assignment-2
+# PPS-Assignment-2
 Programing for problem solving
